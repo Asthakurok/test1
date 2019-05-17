@@ -1,18 +1,23 @@
 apiVersion: v1
 entries:
-  submariner:
-  - appVersion: v0.0.1
-    created: "2019-05-17T17:04:31.699237451+05:30"
-    description: Submariner
-    digest: b64a676d8e85abd34b26a345f1971311a9e762a1154350073ae458c744529353
-    home: https://submariner.io/
+  spring-cloud-data-flow-skn:
+  - apiVersion: v1
+    appVersion: 2.0.0.RELEASE
+    created: 2019-05-17T17:59:18.976726694+05:30
+    description: Toolkit for building data processing pipelines.
+    digest: 63f6c83805832cf5eab2898a7bf87571cfb7da368fc147b359b24a3681a6bf30
+    home: http://cloud.spring.io/spring-cloud-dataflow/
+    icon: https://raw.githubusercontent.com/spring-cloud/spring-cloud-dataflow/master/spring-cloud-dataflow-docs/src/main/docbook/images/logo.png
     maintainers:
-    - email: charts@rancher.com
-      name: Rancher Labs
-    name: submariner
+    - email: trisberg@pivotal.io
+      name: trisberg
+    - email: cschaefer@pivotal.io
+      name: chrisjs
+    name: spring-cloud-data-flow-skn
     sources:
-    - https://github.com/rancher/submariner-charts
+    - https://github.com/spring-cloud/spring-cloud-dataflow
+    - https://github.com/spring-cloud/spring-cloud-skipper
     urls:
-    - https://asthakurok.github.io/test1/submariner-0.0.1.tgz
-    version: 0.0.1
-generated: "2019-05-17T17:04:31.697987641+05:30"
+    - https://asthakurok.github.io/test1/spring-cloud-data-flow-skn-1.0.1.tgz
+    version: 1.0.1
+generated: 2019-05-17T17:59:18.975830945+05:30
