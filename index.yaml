@@ -3,9 +3,9 @@ entries:
   spring-cloud-data-flow-skn:
   - apiVersion: v1
     appVersion: 2.0.0.RELEASE
-    created: 2019-05-20T17:11:23.369593295+05:30
+    created: 2019-05-21T14:29:43.956034689+05:30
     description: Toolkit for building data processing pipelines.
-    digest: f26753c1e43e5ca18733ebf2a2988e47b838a238c375327117a3b36d4111be0f
+    digest: c1e93c2af4b4c2695cfc956877f04c01c79a76c4c49300118496ab90ed4fa75f
     home: http://cloud.spring.io/spring-cloud-dataflow/
     icon: https://raw.githubusercontent.com/spring-cloud/spring-cloud-dataflow/master/spring-cloud-dataflow-docs/src/main/docbook/images/logo.png
     maintainers:
@@ -18,6 +18,6 @@ entries:
     - https://github.com/spring-cloud/spring-cloud-dataflow
     - https://github.com/spring-cloud/spring-cloud-skipper
     urls:
-    - https://asthakurok.github.io/test1/spring-cloud-data-flow-skn-1.0.1.tgz
-    version: 1.0.1
-generated: 2019-05-20T17:11:23.359365064+05:30
+    - https://asthakurok.github.io/test1/spring-cloud-data-flow-skn-1.0.2.tgz
+    version: 1.0.2
+generated: 2019-05-21T14:29:43.941684471+05:30
